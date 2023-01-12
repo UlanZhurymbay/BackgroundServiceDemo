@@ -1,7 +1,7 @@
-using BackgroundServiceDemo.Services;
-using BackgroundServiceDemo.Services.InterfacesAndServices;
-using BackgroundServiceDemo.ServiceSecond;
-using BackgroundServiceDemo.ServiceSecond.InterfacesAndServices;
+using BackgroundServiceDemo.MyBackgroundService;
+using BackgroundServiceDemo.MyBackgroundService.InterfacesAndServices;
+using BackgroundServiceDemo.MyBackgroundServiceSecond;
+using BackgroundServiceDemo.MyBackgroundServiceSecond.InterfacesAndServices;
 
 var builder = WebApplication.CreateBuilder(args);
 

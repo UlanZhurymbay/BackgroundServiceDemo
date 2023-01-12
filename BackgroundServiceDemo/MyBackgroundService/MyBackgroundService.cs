@@ -1,7 +1,7 @@
 using BackgroundServiceDemo.Models;
-using BackgroundServiceDemo.Services.InterfacesAndServices;
+using BackgroundServiceDemo.MyBackgroundService.InterfacesAndServices;
 
-namespace BackgroundServiceDemo.Services;
+namespace BackgroundServiceDemo.MyBackgroundService;
 
 public class MyBackgroundService : BackgroundService
 {

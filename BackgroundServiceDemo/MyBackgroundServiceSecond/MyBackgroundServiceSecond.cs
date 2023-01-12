@@ -1,8 +1,7 @@
-using System.Diagnostics.CodeAnalysis;
 using BackgroundServiceDemo.Models;
-using BackgroundServiceDemo.ServiceSecond.InterfacesAndServices;
+using BackgroundServiceDemo.MyBackgroundServiceSecond.InterfacesAndServices;
 
-namespace BackgroundServiceDemo.ServiceSecond;
+namespace BackgroundServiceDemo.MyBackgroundServiceSecond;
 
 public class MyBackgroundServiceSecond : BackgroundService
 {

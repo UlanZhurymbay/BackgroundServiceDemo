@@ -1,6 +1,6 @@
 using BackgroundServiceDemo.Models;
-using BackgroundServiceDemo.Services.InterfacesAndServices;
-using BackgroundServiceDemo.ServiceSecond.InterfacesAndServices;
+using BackgroundServiceDemo.MyBackgroundService.InterfacesAndServices;
+using BackgroundServiceDemo.MyBackgroundServiceSecond.InterfacesAndServices;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BackgroundServiceDemo.Controllers;

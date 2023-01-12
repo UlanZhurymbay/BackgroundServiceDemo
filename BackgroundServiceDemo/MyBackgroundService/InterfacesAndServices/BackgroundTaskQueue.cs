@@ -1,7 +1,7 @@
 using System.Collections.Concurrent;
 using BackgroundServiceDemo.Models;
 
-namespace BackgroundServiceDemo.Services.InterfacesAndServices;
+namespace BackgroundServiceDemo.MyBackgroundService.InterfacesAndServices;
 
 public class BackgroundTaskQueue : IBackgroundTaskQueue
 {

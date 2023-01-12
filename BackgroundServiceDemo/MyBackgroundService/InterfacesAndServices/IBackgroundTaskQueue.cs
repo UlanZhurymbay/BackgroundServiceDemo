@@ -1,6 +1,6 @@
 using BackgroundServiceDemo.Models;
 
-namespace BackgroundServiceDemo.Services.InterfacesAndServices;
+namespace BackgroundServiceDemo.MyBackgroundService.InterfacesAndServices;
 
 public interface IBackgroundTaskQueue
 {
